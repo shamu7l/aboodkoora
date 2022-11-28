@@ -19,7 +19,6 @@ header{
     background-color: rgb(255, 255, 255);
     padding: 10px 0 10px 0;
     width: 100%;
-    position: fixed;
     
     
 }
@@ -157,10 +156,6 @@ padding-top: 80px;
   padding-left: 100x;
   padding-top: 50px;
 
-}
-
-iframe{
-  padding-top:65px;
 }
 
  
