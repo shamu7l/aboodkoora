@@ -23,6 +23,15 @@ header{
     
 }
 
+
+.header2{
+  background-color: rgb(255, 255, 255);
+    padding: 10px 0 10px 0;
+    width: 100%;
+    position: fixed;
+}
+
+
 header .nav{
     direction: rtl;
     display: flex;
@@ -59,12 +68,12 @@ header .nav a{
       background-color: rgb(81, 0, 173);
      
    }
-   header .nav{
+   .header2 .nav{
       display: none;
    }
    header{
    }
-   header .khas a{
+   .header2 .khas a{
       display: none;   }
  }
 
@@ -128,14 +137,12 @@ padding-top: 60px;
   margin: 20px;
 }
   
-header .khas a{
+.header2 .khas a{
   text-decoration: none;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 50px;
-margin-left: 160px;
-margin-right: 120px;
-padding-left: 30px;
+  margin: 80px;
+  margin-left: 240px;
 
 }
 
