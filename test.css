@@ -166,3 +166,19 @@ padding-top: 80px;
 }
 
  
+h5{
+  font-family: Cairo;
+}
+p{
+  font-family: Cairo,
+}
+
+
+.contanir2{
+  width: 98%;
+  margin: auto;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+
+}
