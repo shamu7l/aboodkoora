@@ -139,10 +139,19 @@ iframe{
   header{
    
   }
+  body{
+    background-position: -340px 50px ;
 
+  }
 
+  iframe{
+    height: 500px;
+    width: 850px;
+  
+  
+   }
+  
  }
-
  
  
  .listall{

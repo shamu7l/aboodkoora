@@ -1,0 +1,75 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+body{
+    background-color: rgb(13, 0, 71);
+    padding: 0;
+     margin: 0;
+     background-image: url(/images/Kylian-Mbappe-Footballer-Transparent.png);
+     background-size:1000px;
+     background-position: -110px 50px ;
+    background-repeat: no-repeat;
+    
+    
+    
+ }
+
+ .whotext{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    align-items: center;
+    direction: rtl;
+    font-weight: 500;
+    margin-top: 200px;
+ }
+
+ /* .scialmedia a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(195, 0, 255);
+    border-radius: 15px;
+    padding: 5px;
+    
+ } */
+
+ .contanair {
+    width: 90%;
+ }
+
+ header{
+    margin: 20px;
+ }
+
+ header a {
+    text-decoration: none;
+    font-weight: 500;
+    color: aliceblue;
+
+ }
+
+ footer{
+    bottom: 0;
+    position: relative;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 500px;
+    font-weight: 500;
+ }
+
+ @media screen and (min-width: 600px) {
+
+    .whotext p{
+        margin-left: 520px;
+    }
+
+  
+   }
+  
