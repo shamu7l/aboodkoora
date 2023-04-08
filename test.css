@@ -3,10 +3,15 @@
 }
 
 body{
-   background-color: rgb(81, 0, 173);
+   background-color: rgb(13, 0, 71);
    padding: 0;
     margin: 0;
-
+    background-image: url(/images/Kylian-Mbappe-Footballer-Transparent.png);
+    background-size:1000px;
+    background-position: -110px 50px ;
+   background-repeat: no-repeat;
+   
+   
 }
 
 .contanir{
@@ -19,6 +24,7 @@ header{
     background-color: rgb(255, 255, 255);
     padding: 10px 0 10px 0;
     width: 100%;
+  
     
     
 }
@@ -29,7 +35,8 @@ header{
     padding: 10px 0 10px 0;
     width: 100%;
     position: fixed;
-}
+    
+  }
 
 
 header .nav{
@@ -57,6 +64,23 @@ header .nav a{
     
 }
 
+.frim{
+  display: flex;
+  justify-content: center;
+}
+
+iframe{
+  display: flex;
+  justify-content: center;
+  width: 350px;
+  height: 290px;
+  margin-top: 50px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 0px 5px white;
+  
+
+}
+
 
 
   .player{
@@ -65,7 +89,7 @@ header .nav a{
 
   @media screen and (max-width: 1049px) {
    body {
-      background-color: rgb(81, 0, 173);
+    background-color: rgb(13, 0, 71);
      
    }
    .header2 .nav{
@@ -82,8 +106,8 @@ header .nav a{
  /* On screens that are 600px or less, set the background color to olive */
  @media screen and (max-width: 600px) {
    body {
-     background-color: rgb(81, 0, 173);
-   }
+    background-color: rgb(13, 0, 71);
+  }
 
    header .nav{
       display: none;
@@ -180,5 +204,11 @@ p{
   overflow: hidden;
   display: flex;
   justify-content: center;
+
+}
+
+
+.tow{
+
 
 }
