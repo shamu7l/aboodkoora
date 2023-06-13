@@ -6,9 +6,9 @@ body{
    background-color: rgb(13, 0, 71);
    padding: 0;
     margin: 0;
-    background-image: url(https://i.pinimg.com/originals/d4/00/da/d400da0f0f2b41eb2019d78ed7d88e86.png);
-    background-size:700px;
-    background-position: -150px 50px ;
+    background-image: url(/images/Kylian-Mbappe-Footballer-Transparent.pngs);
+    background-size:1000px;
+    background-position: -110px 50px ;
    background-repeat: no-repeat;
    
    
@@ -76,7 +76,7 @@ iframe{
   height: 290px;
   margin-top: 50px;
   border-radius: 30px;
-  box-shadow: 0px 0px 0px 5px white;
+
   
 
 }
@@ -140,14 +140,13 @@ iframe{
    
   }
   body{
-    background-position: -112px 80px ;
+    background-position: -340px 50px ;
 
   }
 
   iframe{
     height: 500px;
     width: 850px;
-  
   
    }
   
@@ -203,9 +202,10 @@ h5{
   font-family: Cairo;
 }
 p{
-  font-family: Cairo,
+  font-family: Cairo;
+  
 }
-
+    
 
 .contanir2{
   width: 98%;
